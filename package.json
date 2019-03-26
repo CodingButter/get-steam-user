@@ -13,5 +13,14 @@
     "type": "git",
     "url": "git@github.com:jleelove/get-steam-user.git"
   },
-  "keywords": "steam steamuser steamid steamusername steamapi steamuserinfo"
+  "keywords": [
+    "steam",
+    "steam user",
+    "steamid",
+    "steam username",
+    "steam userinfo",
+    "windows steam",
+    "config.vdf",
+    "loginusers.vdf"
+  ]
 }
