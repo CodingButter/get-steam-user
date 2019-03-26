@@ -1,6 +1,6 @@
 {
   "name": "get-steam-user",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retrieves the local steam users and steam ids on a windows machine",
   "main": "index.js",
   "author": "Jamie Nichols",
