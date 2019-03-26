@@ -1,6 +1,6 @@
 {
   "name": "get-steam-user",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Retrieves the local steam users and steam ids on a windows machine",
   "main": "index.js",
   "author": "Jamie Nichols",
@@ -13,5 +13,5 @@
     "type": "git",
     "url": "git@github.com:jleelove/get-steam-user.git"
   },
-  "keywords":"steam,steam user,steamid,steam username,steam api,steam user info"
+  "keywords": "steam,steam user,steamid,steam username,steam api,steam user info"
 }
